@@ -1,2 +1,2 @@
-# C extensions
-*.so
+# C/C++ files
+*.cpp
